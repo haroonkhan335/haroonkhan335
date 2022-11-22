@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Fethr (Flutter & Firebase)
+- 🔭 I’m currently working with Flutter
 - 🌱 I’m currently learning Blockchain Technologies
 - 👯 I’m looking to collaborate on a Blockchain project.
 - 💬 Ask me about my favorite thing in Flutter
